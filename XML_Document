@@ -1,3 +1,27 @@
-<Doctype>
-<xml>
-</xml>
+<?xml version="1.0" encoding="UTF-8"?>
+<Libray>
+<book category="Technical Books">
+    <ISBN>978-3-16-148410-0</ISBN>
+    <title lang="en">Computer Applications</title>
+    <author>K.Stanley</author>
+  </book>
+  
+  <book category="Technical Books">
+    <ISBN>979-3-16-148410-0</ISBN>
+    <title lang="en">Computer Science</title>
+    <author>P.Buckley</author>
+  </book>
+  
+  <book category="Cookery Books">
+    <ISBN>980-3-16-148410-0</ISBN>
+    <title lang="en">Irish Homemade Meals</title>
+    <author>Lisa McCarty</author>
+  </book>
+  
+    <book category="Cookery Books">
+    <ISBN>981-3-16-148410-0</ISBN>
+    <title lang="en">French Homemade Meals</title>
+    <author>Lisa May</author>
+  </book>
+  
+  </Libray>
